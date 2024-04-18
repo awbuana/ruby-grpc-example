@@ -1,3 +1,6 @@
 # README
 
-This Example for gRpc Client Rails
+Run
+```
+bundle exec rails c
+```
